@@ -1,6 +1,6 @@
 # Tutti i progressi svolti durante il tirocinio
 
-## Giorno 1
+## Giorno 1 25 Novembre 2025
 
 ### Inizio ore 10:00
 
@@ -13,3 +13,19 @@ Ho visto l'introduzione a Remix e scaricato il compilatore Solc nel mio computer
 Vedendo da slide l'introduzione a **Solidity** oltre leggere il materiale fornito ho iniziato a leggere la documentazione dal sito ufficiale [Solidity](https://docs.soliditylang.org/en/stable/introduction-to-smart-contracts.html) sia per quanto riguarda la struttura del file che per il tipo di documentazione [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html).
 
 ### Fine ore 13:00
+
+## Giorno 2 26 Novembre 2025
+
+### Inizio ore 10:00
+
+Mi sono iniziato a vedere più seriamente la sintassi di Solidity
+
+### Pausa 10:33
+
+### Ripreso 15:11
+
+Ho utilizzato **Remix** per scrivere l'_esercizio 1_ e ho inviato nella rete di Sepolia il contratto dell'esercizio
+
+Ho iniziato a vedere le funzioni e approfondito il concetto di **Pure** e **View**. Ho anche approfondito le `call(...)` `delegatecall(...)` e `staticcall(...)` e le differenze tra di loro
+
+### Fine 16:37

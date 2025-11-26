@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "value",
+				"outputs": [
+					{
+						"internalType": "uint16",
+						"name": "",
+						"type": "uint16"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"basics.sol": "SaveValue"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"basics.sol": {
+			"keccak256": "0x8ede81b1ea9df3af8a168490d48a711dac0f57a4aa047155d2aae7ef5c365933",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://777eecdf65b9da90c1e54a3197ac1130a306620136dcdb240776bd9c87a6291e",
+				"dweb:/ipfs/QmYHngQDC2ja6TzDtpQeZoqZD7BXidiAsvXJgtvtQddPNR"
+			]
+		}
+	},
+	"version": 1
+}
