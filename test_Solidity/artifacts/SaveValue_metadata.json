@@ -12,6 +12,19 @@
 			},
 			{
 				"inputs": [],
+				"name": "sumTen",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "result",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "value",
 				"outputs": [
 					{
@@ -52,11 +65,11 @@
 	},
 	"sources": {
 		"basics.sol": {
-			"keccak256": "0x8ede81b1ea9df3af8a168490d48a711dac0f57a4aa047155d2aae7ef5c365933",
+			"keccak256": "0x9b381adcb56cc2ea8aba0a170c25f25b73f6986ada8611c3f96fb266a13f825b",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://777eecdf65b9da90c1e54a3197ac1130a306620136dcdb240776bd9c87a6291e",
-				"dweb:/ipfs/QmYHngQDC2ja6TzDtpQeZoqZD7BXidiAsvXJgtvtQddPNR"
+				"bzz-raw://48abfa1158c1d49913ee98bd9ae2bddc76624767d008f46d43248806b9ff2a7b",
+				"dweb:/ipfs/QmZgaEd3aTmxfNSK8SVopFk5TBYjDUspq8SknuGVdmTV8d"
 			]
 		}
 	},

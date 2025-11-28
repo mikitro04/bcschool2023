@@ -24,8 +24,18 @@ Mi sono iniziato a vedere più seriamente la sintassi di Solidity
 
 ### Ripreso 15:11
 
-Ho utilizzato **Remix** per scrivere l'_esercizio 1_ e ho inviato nella rete di Sepolia il contratto dell'esercizio
+Ho utilizzato **Remix** per scrivere l'_esercizio 1_ e ho inviato nella rete di Sepolia il contratto dell'esercizio.
 
-Ho iniziato a vedere le funzioni e approfondito il concetto di **Pure** e **View**. Ho anche approfondito le `call(...)` `delegatecall(...)` e `staticcall(...)` e le differenze tra di loro
+Ho iniziato a vedere le funzioni e approfondito il concetto di **Pure** e **View**. Ho anche approfondito le `call(...)` `delegatecall(...)` e `staticcall(...)` e le differenze tra di loro.
 
 ### Fine 16:37
+
+## Giorno 3 27 Novembre 2025
+
+### Inizio 15:17
+
+Introduzione alla _visibilità_ delle funzioni e differenziazione di ogniuna.
+
+Ho iniziato a vedere i tipi e le modalità di ritorno delle funzioni.
+
+### Fine 16:20
