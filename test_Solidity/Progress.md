@@ -44,4 +44,4 @@ Ho iniziato a vedere i tipi e le modalità di ritorno delle funzioni.
 
 ### Inizio 11:00
 
-Creazione _[file excel](OreTotali.odt)_ per il conteggio totale delle ore
+Creazione _[file excel](OreTotali.ods)_ per il conteggio totale delle ore
