@@ -1,6 +1,6 @@
 # Tutti i progressi svolti durante il tirocinio
 
-## Giorno 1 25 Novembre 2025
+## Giorno 1 - 25 Novembre 2025
 
 ### Inizio ore 10:00
 
@@ -14,7 +14,7 @@ Vedendo da slide l'introduzione a **Solidity** oltre leggere il materiale fornit
 
 ### Fine ore 13:00
 
-## Giorno 2 26 Novembre 2025
+## Giorno 2 - 26 Novembre 2025
 
 ### Inizio ore 10:00
 
@@ -30,7 +30,7 @@ Ho iniziato a vedere le funzioni e approfondito il concetto di **Pure** e **View
 
 ### Fine 16:37
 
-## Giorno 3 27 Novembre 2025
+## Giorno 3 - 27 Novembre 2025
 
 ### Inizio 15:17
 
@@ -39,3 +39,9 @@ Introduzione alla _visibilità_ delle funzioni e differenziazione di ogniuna.
 Ho iniziato a vedere i tipi e le modalità di ritorno delle funzioni.
 
 ### Fine 16:20
+
+## Giorno 4 - 26 Novembre 2025
+
+### Inizio 11:00
+
+Creazione _[file excel](OreTotali.odt)_ per il conteggio totale delle ore
