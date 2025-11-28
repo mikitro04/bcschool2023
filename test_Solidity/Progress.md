@@ -44,4 +44,22 @@ Ho iniziato a vedere i tipi e le modalità di ritorno delle funzioni.
 
 ### Inizio 11:00
 
-Creazione _[file excel](OreTotali.ods)_ per il conteggio totale delle ore
+Creazione _[file excel](OreTotali.ods)_ per il conteggio totale delle ore.
+
+Setup di tutto l'ambiente sul fisso.
+
+### Pausa 11:56
+
+### Ripreso 12:22
+
+Esercizio 3 e 4 del file [Solidity.pdf](../Slides/Solidity.pdf)
+
+### Pausa 12:54
+
+### Ripreso 15:20
+
+Approfondito i tipi principali di variabili dal [sito ufficiale](https://docs.soliditylang.org/en/latest/units-and-global-variables.html)
+
+Arrivato a Slide 50
+
+### Fine 16:46

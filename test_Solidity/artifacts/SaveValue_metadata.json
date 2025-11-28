@@ -12,6 +12,32 @@
 			},
 			{
 				"inputs": [],
+				"name": "myValue",
+				"outputs": [
+					{
+						"internalType": "uint16",
+						"name": "",
+						"type": "uint16"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "numWriting",
+				"outputs": [
+					{
+						"internalType": "uint16",
+						"name": "",
+						"type": "uint16"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "sumTen",
 				"outputs": [
 					{
@@ -24,16 +50,16 @@
 				"type": "function"
 			},
 			{
-				"inputs": [],
-				"name": "value",
-				"outputs": [
+				"inputs": [
 					{
 						"internalType": "uint16",
-						"name": "",
+						"name": "_val",
 						"type": "uint16"
 					}
 				],
-				"stateMutability": "view",
+				"name": "writeValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -65,11 +91,11 @@
 	},
 	"sources": {
 		"basics.sol": {
-			"keccak256": "0x9b381adcb56cc2ea8aba0a170c25f25b73f6986ada8611c3f96fb266a13f825b",
+			"keccak256": "0x1f044b229bc99eb440c853072e7f50f76bcd97b09ad77e6335b772e80779a8f3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://48abfa1158c1d49913ee98bd9ae2bddc76624767d008f46d43248806b9ff2a7b",
-				"dweb:/ipfs/QmZgaEd3aTmxfNSK8SVopFk5TBYjDUspq8SknuGVdmTV8d"
+				"bzz-raw://b92ac94f78e8e95733de77b3697941fbc14f4fef1bd8458cc5510e883c00a3a3",
+				"dweb:/ipfs/QmUzaLD4f9ahvSAjUwVf63nfwW1haLrDcJEGDE7BJyTkbG"
 			]
 		}
 	},
