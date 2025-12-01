@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getDeposits",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "num_deposits",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "withdrawal",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Moneybox.sol": "Moneybox"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Moneybox.sol": {
+			"keccak256": "0x2cd827e193d6d9aeb2fd470db9d6aaacc63f7ddd842cf8bdefb2994140c64b63",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://c2e4d485e5a24a8e2fcc625c7d2554bbaa26589a7d409833512b137ddd1b2cad",
+				"dweb:/ipfs/QmcaaHUYiuTSwrt6kMUSoWd4tNRDYUA4woyHfALYVUPjyE"
+			]
+		}
+	},
+	"version": 1
+}

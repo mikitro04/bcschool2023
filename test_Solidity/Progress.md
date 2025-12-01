@@ -63,3 +63,13 @@ Approfondito i tipi principali di variabili dal [sito ufficiale](https://docs.so
 Arrivato a Slide 50
 
 ### Fine 16:46
+
+## Giorno 5 - 1 Dicembre 2025
+
+## Inizio 11:47
+
+Ho iniziato a guardare un video della durata totale di 4h per velocizzare l'apprendimento e la comprensione di _**Solidity**_. Ho per lo più fatto un ripasso di quello visto fin'ora ma in mezz'ora.
+
+[Video](https://youtu.be/AYpftDFiIgk?si=V4AD7nmQknXxR2Un&t=1965) Fino a min 33 min circa
+
+### Fine 12:15
