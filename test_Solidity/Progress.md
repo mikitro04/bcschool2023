@@ -80,4 +80,14 @@ Ho iniziato a guardare un video della durata totale di 4h per velocizzare l'appr
 
 [Fino a 1:05:58](https://youtu.be/AYpftDFiIgk?si=X9NuEOkMeqIw_j_-&t=3958)
 
-### Fine 12:04
+### Pausa 12:04
+
+### Ripreso 14:23
+
+### Pausa 15:00
+
+### Ripreso 15:19
+
+[Fino a 1:45:49](https://youtu.be/AYpftDFiIgk?si=mcNAFYOuX_bLpk1a&t=6349)
+
+### Fine 16:08
