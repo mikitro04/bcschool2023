@@ -40,7 +40,7 @@ Ho iniziato a vedere i tipi e le modalità di ritorno delle funzioni.
 
 ### Fine 16:20
 
-## Giorno 4 - 26 Novembre 2025
+## Giorno 4 - 28 Novembre 2025
 
 ### Inizio 11:00
 
@@ -73,3 +73,11 @@ Ho iniziato a guardare un video della durata totale di 4h per velocizzare l'appr
 [Video](https://youtu.be/AYpftDFiIgk?si=V4AD7nmQknXxR2Un&t=1965) Fino a min 33 min circa
 
 ### Fine 12:15
+
+## Giorno 6 - 2 Dicembre 2025
+
+### Inizio 10:42
+
+[Fino a 1:05:58](https://youtu.be/AYpftDFiIgk?si=X9NuEOkMeqIw_j_-&t=3958)
+
+### Fine 12:04
