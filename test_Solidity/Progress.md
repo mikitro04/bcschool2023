@@ -105,3 +105,11 @@ Approfondito `Events`, sia la dichiarazione che l'_emit_, e approfondito la veri
 ### pausa 18:31
 
 [Fino a 2:18:49](https://youtu.be/AYpftDFiIgk?si=ACVA4jdZTbD2bQIR)
+
+## Giorno 8 - 7 Dicembre 2025
+
+### Inizio 14:45
+
+[Fino a 2:49:33](https://youtu.be/AYpftDFiIgk?si=9gNtudc9NZ2Bya7y&t=10173)
+
+### Fine 15:34
