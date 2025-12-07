@@ -1,0 +1,86 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "intero",
+						"type": "uint256"
+					}
+				],
+				"name": "evento",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nome",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_eta",
+						"type": "uint256"
+					}
+				],
+				"name": "registra",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ConvenzioniSol.sol": "MyContract"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ConvenzioniSol.sol": {
+			"keccak256": "0x062bdc2d05d78be2119431afb5cac7c39d2cf47ec0197e91758dd51605fc1a51",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://088aa7b0bc62cfbba63326557d09aaa8733c42ec504c66708167d7a9e278d8cf",
+				"dweb:/ipfs/QmRnzRbC73dJpnm4bK7Z3vms1eJogKQF297xLTZUo1VLBZ"
+			]
+		}
+	},
+	"version": 1
+}

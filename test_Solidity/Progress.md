@@ -91,3 +91,17 @@ Ho iniziato a guardare un video della durata totale di 4h per velocizzare l'appr
 [Fino a 1:45:49](https://youtu.be/AYpftDFiIgk?si=mcNAFYOuX_bLpk1a&t=6349)
 
 ### Fine 16:08
+
+## Giorno 7 - 5 Dicembre 2025
+
+### Inizio 15:52
+
+Approfondito `Events`, sia la dichiarazione che l'_emit_, e approfondito la verifica del codice, della transazione e la visualizzazione degli eventi
+
+### Pausa 16:44
+
+### Ripreso 17:38
+
+### pausa 18:31
+
+[Fino a 2:18:49](https://youtu.be/AYpftDFiIgk?si=ACVA4jdZTbD2bQIR)
