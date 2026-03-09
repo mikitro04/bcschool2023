@@ -190,6 +190,24 @@ L'EntryPoint agisce come entità centrale nell'architettura ERC-4337. Coordina l
 * **Versione 0.7 (0x000000071727De22E5E9d8BAf0edAc6f37da032)**: la versione più recente, introducendo numerosi miglioramenti, anche se è attualmente supportata da pochi provider.
 
 
+
+| Caratteristica | EntryPoint v0.6.0 | EntryPoint v0.7.0 | Miglioramento Effettivo |
+|:--:|:--:|:--:|:--:|
+| Struttura Dati | Unpacked (Piatta) | PackedUserOperation | Riduce i costi di calldata e risolve i limiti di memoria ("stack too deep<sup>[3](#deep)</sup>") della EVM.
+| Gas Paymaster | Condiviso con l'account | Limiti granulari dedicati | Introdotte variabili specifiche per la validazione e la post-esecuzione del paymaster, riducendo i depositi richiesti.
+| Efficienza Gas | Nessuna penale | Penale 10% | Viene addebitato il 10% del gas di esecuzione inutilizzato per scoraggiare stime eccessive che intasano i bundle.
+| Deployment | Campo unico initCode | Split factory/factoryData | Maggiore chiarezza nella creazione dell'account senza necessità di decodifica manuale dei byte.
+| Simulazione | Funzioni on-chain | Spostate off-chain | Alleggerisce il bytecode del contratto EntryPoint, riducendo i costi di interazione.
+| Logica Post-Op | Doppia chiamata possibile | Chiamata singola | Semplifica il flusso di accounting del paymaster e riduce potenziali bug di esecuzione.
+| Supporto L2 |  Solo state overrides | delegateAndRevert() | Permette la simulazione e validazione anche su reti che non supportano modifiche temporanee dello stato.
+| Standardizzazione | Non presente | Supporto ERC-165 | Consente il rilevamento automatico della versione del contratto da parte di dApp e altri smart contract.
+
+
+
+
+
+
 #### Note:
-* <a id="eoa"></a> Nota **1**: EOA = External Owned Account
-* <a id="singleton"></a> Nota **2**: singleton = è uno smart contract **univoco** per tutta la blockchain
+* <a id="eoa"></a> Nota **1**: EOA = External Owned Account.
+* <a id="singleton"></a> Nota **2**: singleton = è uno smart contract **univoco** per tutta la blockchain.
+* <a id="deep"></a> Nota **3**: stack too deep = limitazione tecnica imposta dalla Ethereum Virtual Machine (EVM).
