@@ -159,7 +159,7 @@ La componentistica principale è formata da:
 
 * **Aggregator**: un'entità opzionale per gli smart accounts che cpmvalida e aggrega le firme da più operazioni utente.
 
-![Architettura](/assets/architettura.png "Schema dell'architettura ERC-4337.")
+![Architettura](assets/architettura.png "Schema dell'architettura ERC-4337.")
 
 #### UserOperation
 
